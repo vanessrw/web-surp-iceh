@@ -8,6 +8,13 @@ body {
   font-family: montserrat, sans-serif;
 }
 
+.footer {
+  background-color: #212529 !important;
+  color: #fff;
+  padding: 20px;
+  min-height: 120px;
+}
+
 header {
   display: flex;
   flex-direction: column;
